@@ -22,3 +22,6 @@ supabase/.temp/
 
 # Added by code-review-graph
 .code-review-graph/
+
+# machine-local MCP server config (absolute local paths)
+.mcp.json
